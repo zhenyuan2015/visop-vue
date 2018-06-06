@@ -1,0 +1,43 @@
+/*
+html{
+    height:100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    height:100%;
+}
+
+header{
+    height:50px;
+    background: darkgray;
+    flex:0 0 auto;
+    font-size: 30px;
+    color: white;
+    background: orangered;
+    text-align: center;
+}
+
+footer{
+    width:100%;
+    height:30px;
+    background: darkgray;
+    flex:0 0 auto;
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+    background: orangered;
+}
+
+.content {
+    flex:1 0 auto;
+    !*height: 100%;*!
+    align-items: center;
+    justify-content: center;
+
+    width: 80%;
+    margin:100px auto;
+
+}
+*/

@@ -1,0 +1,56 @@
+.z-icon-user{
+background: url("/assets/images/username.png") no-repeat center center;
+}
+.z-icon-pass{
+background: url("/assets/images/password.png") no-repeat center center;
+}
+.z-icon-phone{
+    background: url("/assets/images/phone.png") no-repeat center center;
+}
+.z-icon-yanjing{
+background: url("/assets/images/icon-yanjing.png") no-repeat center center;
+position: absolute;
+right: 0;
+}
+.z-icon-comp{
+background: url("/assets/images/company.png") no-repeat center center;
+}
+.z-icon-code{
+background: url("/assets/images/code.png") no-repeat center center;
+}
+.title{
+    position: relative;
+}
+.z-icon-back{
+    background: url("/assets/images/Back Chevron.png") no-repeat center center;
+    background-size: 100%;
+    display: block;
+    position: absolute;
+    width: .4rem;
+    height: .64rem;
+    margin: .1rem;
+}
+.z-icon-idcard{
+    background: url("/assets/images/idcard.png") no-repeat center center;
+}
+.z-icon-orderform-gps{
+    background: url("/assets/images/orderform-gps.png") no-repeat center center;
+}
+.z-icon-orderform-carchase{
+    background: url("/assets/images/orderform-carchase.png") no-repeat center center;
+}
+.z-icon-orderform-financial{
+    background: url("/assets/images/orderform-financial.png") no-repeat center center;
+}
+.z-icon-orderform-cars{
+    background: url("/assets/images/orderform-cars.png") no-repeat center center;
+}
+.z-icon-orderform-insurance{
+    background: url("/assets/images/orderform-insurance.png") no-repeat center center;
+}
+.z-icon{
+    display: block;
+    position: absolute;
+    background-size: contain;
+    top: 0;
+}
