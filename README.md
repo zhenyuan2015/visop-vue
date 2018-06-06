@@ -14,7 +14,7 @@ a vue front template that use visop to manage routes
 - visop start -f
 - open http://localhost:8050
 - 路由管理菜单里增加路由
-[](./screenshot.png)
+![](./screenshot.png)
 
 ### run
 - npm install
